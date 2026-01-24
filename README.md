@@ -21,3 +21,6 @@ Configuración del entorno de trabajo en AWS:
 
 <img width="1528" height="337" alt="image" src="https://github.com/user-attachments/assets/576f09ac-a674-4878-8e96-c14af3ab136a" />
 
+<img width="1060" height="439" alt="image" src="https://github.com/user-attachments/assets/d90bb2e6-df01-475c-9eb1-a108656056a3" />
+
+
