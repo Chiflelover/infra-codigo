@@ -1,4 +1,4 @@
-<img width="1403" height="723" alt="image" src="https://github.com/user-attachments/assets/6d3c4ad8-01a9-4e0c-ad66-00322a1f5ec7" /># Pedidos Online para Cadena de Restaurantes
+# Pedidos Online para Cadena de Restaurantes
 
 
 Integrantes:
